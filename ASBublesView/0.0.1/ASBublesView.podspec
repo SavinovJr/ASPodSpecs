@@ -72,7 +72,7 @@ ASBublesView is a small library which places views (which you can tap =]) as bub
   #
 
   s.source_files  = "ASBublesView/**/*.{h,m}"
-  # s.public_header_files = "ASBublesView/**/ASBublesView.h"
+  s.public_header_files = "ASBublesView/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
